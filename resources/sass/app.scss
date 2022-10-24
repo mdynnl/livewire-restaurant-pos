@@ -14,7 +14,9 @@
  *
  * See: https://github.com/laravel-frontend-presets/tall/issues/7
  */
- input:invalid, textarea:invalid, select:invalid {
+input:invalid,
+textarea:invalid,
+select:invalid {
     box-shadow: none;
 }
 
@@ -52,4 +54,10 @@
 
 [x-cloak] {
     display: none;
+}
+
+
+.turbo-progress-bar {
+    height: 3px;
+    background-color: green;
 }

@@ -1,30 +1,50 @@
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        @hasSection('title')
 
-            <title>@yield('title') - {{ config('app.name') }}</title>
-        @else
-            <title>{{ config('app.name') }}</title>
-        @endif
+<head>
+    <meta charset="utf-8">
+    <meta
+        content="width=device-width, initial-scale=1"
+        name="viewport"
+    >
+    @hasSection('title')
+        <title>@yield('title') - {{ config('app.name') }}</title>
+    @else
+        <title>{{ config('app.name') }}</title>
+    @endif
 
-        <!-- Favicon -->
-		<link rel="shortcut icon" href="{{ url(asset('favicon.ico')) }}">
+    <!-- Favicon -->
+    <link
+        href="{{ url(asset('favicon.ico')) }}"
+        rel="shortcut icon"
+    >
 
-        <!-- Fonts -->
-        <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
+    <!-- Fonts -->
+    {{-- <link
+        href="https://rsms.me/inter/inter.css"
+        rel="stylesheet"
+    > --}}
 
-        @vite(['resources/sass/app.scss', 'resources/js/app.js'])
-        @livewireStyles
-        @livewireScripts
+    @vite(['resources/sass/app.scss', 'resources/js/app.js'])
+    @livewireStyles
 
-        <!-- CSRF Token -->
-        <meta name="csrf-token" content="{{ csrf_token() }}">
-    </head>
+    <!-- CSRF Token -->
+    <meta
+        content="{{ csrf_token() }}"
+        name="csrf-token"
+    >
+</head>
 
-    <body>
-        @yield('body')
-    </body>
+<body class="flex flex-col h-screen overflow-hidden bg-gray-100 border-4 border-red-900 select-none">
+
+    @yield('body')
+    @livewireScripts
+    <script
+        src="https://cdn.jsdelivr.net/gh/livewire/turbolinks@v0.1.x/dist/livewire-turbolinks.js"
+        data-turbolinks-eval="false"
+        data-turbo-eval="false"
+    ></script>
+
+</body>
+
 </html>

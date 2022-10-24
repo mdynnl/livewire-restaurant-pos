@@ -1,0 +1,1002 @@
+[
+    {
+        "name": "မာလာဟင်း",
+        "price": "4200.00",
+        "category": "Other Menu"
+    },
+    {
+        "name": "မာလာကြက်ခြေထောက်",
+        "price": "4725.00",
+        "category": "Other Menu"
+    },
+    {
+        "name": "အာလူးမာလာ",
+        "price": "3150.00",
+        "category": "Other Menu"
+    },
+    {
+        "name": "ကွေ့သယို",
+        "price": "2625.00",
+        "category": "Other Menu"
+    },
+    {
+        "name": "မြေအိုးမြီးရှည်",
+        "price": "4200.00",
+        "category": "Other Menu"
+    },
+    {
+        "name": "ဆန်ပြားသုပ်",
+        "price": "2415.00",
+        "category": "Other Menu"
+    },
+    {
+        "name": "ရှမ်းခေါက်ဆွဲ",
+        "price": "2625.00",
+        "category": "Other Menu"
+    },
+    {
+        "name": "ဝက်နံရိုးကြော်",
+        "price": "5250.00",
+        "category": "Other Menu"
+    },
+    {
+        "name": "ဝက်သားကြော်",
+        "price": "5250.00",
+        "category": "Other Menu"
+    },
+    {
+        "name": "ကြက်သားကြော်",
+        "price": "5250.00",
+        "category": "Other Menu"
+    },
+    {
+        "name": "ယိုးဒယားသ​ဘော်သီးထောင်း",
+        "price": "2625.00",
+        "category": "Salad"
+    },
+    {
+        "name": "ကြက်ခြေထောက်ထောင်း",
+        "price": "3675.00",
+        "category": "Salad"
+    },
+    {
+        "name": "ရေဘဝဲထောင်း",
+        "price": "6825.00",
+        "category": "Salad"
+    },
+    {
+        "name": "ပုဇွန်ထောင်:",
+        "price": "4515.00",
+        "category": "Salad"
+    },
+    {
+        "name": "ကင်းမွန်ထောင်း",
+        "price": "6300.00",
+        "category": "Salad"
+    },
+    {
+        "name": "seafood ထောင်း",
+        "price": "8400.00",
+        "category": "Salad"
+    },
+    {
+        "name": "ပုစွန်အစိမ်းထောင်း",
+        "price": "6825.00",
+        "category": "Salad"
+    },
+    {
+        "name": "မုန့်ဖတ်ထောင်း",
+        "price": "2625.00",
+        "category": "Salad"
+    },
+    {
+        "name": "ပြောင်းဖူးထောင်း",
+        "price": "2625.00",
+        "category": "Salad"
+    },
+    {
+        "name": "​ကြက်ဥထောင်း",
+        "price": "1890.00",
+        "category": "Salad"
+    },
+    {
+        "name": "yum yumခေါက်ဆွဲထောင်း",
+        "price": "3150.00",
+        "category": "Salad"
+    },
+    {
+        "name": "ငါးဖယ်လုံးထောင်း",
+        "price": "3675.00",
+        "category": "Salad"
+    },
+    {
+        "name": "CP ထောင်း",
+        "price": "3675.00",
+        "category": "Salad"
+    },
+    {
+        "name": "ဝက်သားထောင်း",
+        "price": "4200.00",
+        "category": "Salad"
+    },
+    {
+        "name": "အပ်မှိုထောင်း",
+        "price": "3465.00",
+        "category": "Salad"
+    },
+    {
+        "name": "ဝက်ခေါင်းထောင်း",
+        "price": "4200.00",
+        "category": "Salad"
+    },
+    {
+        "name": "ကြက်သားထောင်း",
+        "price": "4200.00",
+        "category": "Salad"
+    },
+    {
+        "name": "ပန်းသီးထောင်း",
+        "price": "3150.00",
+        "category": "Salad"
+    },
+    {
+        "name": "နာနတ်သီးထောင်း",
+        "price": "3150.00",
+        "category": "Salad"
+    },
+    {
+        "name": "သီးစုံထောင်း",
+        "price": "5250.00",
+        "category": "Salad"
+    },
+    {
+        "name": "သရက်သီးထောင်း",
+        "price": "3150.00",
+        "category": "Salad"
+    },
+    {
+        "name": "ဆတ်သားခြောက်ရှူးရှဲထောင်း",
+        "price": "5775.00",
+        "category": "Salad"
+    },
+    {
+        "name": "ငါးနီတူရှူးရှဲထောင်း",
+        "price": "3675.00",
+        "category": "Salad"
+    },
+    {
+        "name": "Yum Yum နှင့် CP ထောင်း",
+        "price": "3675.00",
+        "category": "Salad"
+    },
+    {
+        "name": "Yum Yum နှင့် ကြက်ခြေထောင်း",
+        "price": "3675.00",
+        "category": "Salad"
+    },
+    {
+        "name": "မုန့်ဖတ်နှင့် Seafoodထောင်း",
+        "price": "5565.00",
+        "category": "Salad"
+    },
+    {
+        "name": "နာနတ်နှင့် ကြက်ခြေထောင်း",
+        "price": "4200.00",
+        "category": "Salad"
+    },
+    {
+        "name": "သရက် နှင့်ကြက်ခြေထောင်း",
+        "price": "4200.00",
+        "category": "Salad"
+    },
+    {
+        "name": "မုန့်ဖတ် နှင့်ကြက်ခြေထောင်း",
+        "price": "4200.00",
+        "category": "Salad"
+    },
+    {
+        "name": "အပ်မှို နှင့်ကြက်ခြေထောင်း",
+        "price": "4200.00",
+        "category": "Salad"
+    },
+    {
+        "name": "သရက် နှင့် ပုဇွန်ထောင်း",
+        "price": "4725.00",
+        "category": "Salad"
+    },
+    {
+        "name": "အပ်မှို နှင့် ဝက်ခေါင်းထောင်း",
+        "price": "4725.00",
+        "category": "Salad"
+    },
+    {
+        "name": "အပ်မှို နှင့် Seafoodထောင်း",
+        "price": "5565.00",
+        "category": "Salad"
+    },
+    {
+        "name": "ဝက်ခေါင်းသုပ်",
+        "price": "3675.00",
+        "category": "Salad"
+    },
+    {
+        "name": "အပ်မှို နှင့် သုံးထပ်သားထောင်း",
+        "price": "4725.00",
+        "category": "Salad"
+    },
+    {
+        "name": "ကြက်သားသုပ်",
+        "price": "3675.00",
+        "category": "Salad"
+    },
+    {
+        "name": "ဝက်သားသုပ်",
+        "price": "3675.00",
+        "category": "Salad"
+    },
+    {
+        "name": "ငါးသေတ္တာသုပ်",
+        "price": "2940.00",
+        "category": "Salad"
+    },
+    {
+        "name": "ကြက်ခြေသုပ်",
+        "price": "2940.00",
+        "category": "Salad"
+    },
+    {
+        "name": "အာဗြဲခြောက်ရှူးရှဲသုပ်",
+        "price": "2625.00",
+        "category": "Salad"
+    },
+    {
+        "name": "ငါးနီတူသုပ်",
+        "price": "2625.00",
+        "category": "Salad"
+    },
+    {
+        "name": "ဆေးဘဲဥသုပ်",
+        "price": "2625.00",
+        "category": "Salad"
+    },
+    {
+        "name": "ဆတ်သားခြောက်သုပ်",
+        "price": "3150.00",
+        "category": "Salad"
+    },
+    {
+        "name": "ရှောက်သီးသုပ်",
+        "price": "1890.00",
+        "category": "Salad"
+    },
+    {
+        "name": "ကန်စွန်းရွက်သုပ်",
+        "price": "1890.00",
+        "category": "Salad"
+    },
+    {
+        "name": "ပုစွန်အစိမ်းသုပ်",
+        "price": "6825.00",
+        "category": "Salad"
+    },
+    {
+        "name": "ကြက်သားထမင်းသုပ်",
+        "price": "1680.00",
+        "category": "Rice Menu"
+    },
+    {
+        "name": "ဆေးဘဲဥထမင်းသုပ်",
+        "price": "3675.00",
+        "category": "Rice Menu"
+    },
+    {
+        "name": "ငါးသေတ္တာထမင်းသုပ်",
+        "price": "3675.00",
+        "category": "Rice Menu"
+    },
+    {
+        "name": "ငပိထမင်းသုပ်နှင့်ကြက်ကြော်",
+        "price": "3675.00",
+        "category": "Rice Menu"
+    },
+    {
+        "name": "ငပိထမင်းသုပ်နှင့်ကြက်ဥ",
+        "price": "2625.00",
+        "category": "Rice Menu"
+    },
+    {
+        "name": "ငပိထမင်းသုပ်နှင့်ဝက်ကြော်",
+        "price": "3675.00",
+        "category": "Rice Menu"
+    },
+    {
+        "name": "ချဥ်ပေါင်ထမင်းနှင့်ကြက်ဥ",
+        "price": "2625.00",
+        "category": "Rice Menu"
+    },
+    {
+        "name": "ချဥ်ပေါင်ထမင်းနှင့်ဝက်ကြော်",
+        "price": "3675.00",
+        "category": "Rice Menu"
+    },
+    {
+        "name": "ချဥ်ပေါင်ထမင်းနှင့်ကြက်ကြော်",
+        "price": "3675.00",
+        "category": "Rice Menu"
+    },
+    {
+        "name": "ပုန်းရည်ကြီးထမင်းနှင့်ကြက်ကြော်",
+        "price": "3675.00",
+        "category": "Rice Menu"
+    },
+    {
+        "name": "ပုန်းရည်ကြီးထမင်းနှင့်ကြက်ဥ",
+        "price": "2625.00",
+        "category": "Rice Menu"
+    },
+    {
+        "name": "ပုန်းရည်ကြီးထမင်းနှင့်ဝက်ကြော်",
+        "price": "3675.00",
+        "category": "Rice Menu"
+    },
+    {
+        "name": "အာလူးထမင်းနှင့်ကြက်ဥ",
+        "price": "2625.00",
+        "category": "Rice Menu"
+    },
+    {
+        "name": "အာလူးထမင်းနှင့်ဝက်ကြော်",
+        "price": "3675.00",
+        "category": "Rice Menu"
+    },
+    {
+        "name": "အာလူးထမင်းနှင့်ကြက်ကြော်",
+        "price": "3675.00",
+        "category": "Rice Menu"
+    },
+    {
+        "name": "ငါးထမင်းနှင့်ကြက်ကြော်",
+        "price": "3675.00",
+        "category": "Rice Menu"
+    },
+    {
+        "name": "ငါးထမင်းနှင့်ကြက်ဥ",
+        "price": "2625.00",
+        "category": "Rice Menu"
+    },
+    {
+        "name": "ငါးထမင်းနှင့်ဝက်ကြော်",
+        "price": "3675.00",
+        "category": "Rice Menu"
+    },
+    {
+        "name": "လက်ဖက်ထမင်း",
+        "price": "2100.00",
+        "category": "Rice Menu"
+    },
+    {
+        "name": "လက်ဖက်ထမင်းနှင့်ကြက်ကြော်",
+        "price": "3675.00",
+        "category": "Rice Menu"
+    },
+    {
+        "name": "လက်ဖက်ထမင်းနှင့်ကြက်ဥ",
+        "price": "2625.00",
+        "category": "Rice Menu"
+    },
+    {
+        "name": "လက်ဖက်ထမင်းနှင့်ဝက်ကြော်",
+        "price": "3675.00",
+        "category": "Rice Menu"
+    },
+    {
+        "name": "ထမင်းသုပ်နှင့်ကြက်ဥ",
+        "price": "2625.00",
+        "category": "Rice Menu"
+    },
+    {
+        "name": "ထမင်းသုပ် နှင့်ဝက်ကြော်",
+        "price": "3675.00",
+        "category": "Rice Menu"
+    },
+    {
+        "name": "ထမင်းသုပ်နှင့်ကြက်ကြော်",
+        "price": "3675.00",
+        "category": "Rice Menu"
+    },
+    {
+        "name": "ရခိုင်ထမင်းသုပ် နှင့်ကြက်ကြော်",
+        "price": "3675.00",
+        "category": "Rice Menu"
+    },
+    {
+        "name": "ရခိုင်ထမင်းသုပ်နှင့်ကြက်ဥ",
+        "price": "2625.00",
+        "category": "Rice Menu"
+    },
+    {
+        "name": "ရခိုင်ထမင်းသုပ် နှင့်ဝက်ကြော်",
+        "price": "3675.00",
+        "category": "Rice Menu"
+    },
+    {
+        "name": "ထမင်းဆီဆမ်း",
+        "price": "1050.00",
+        "category": "Rice Menu"
+    },
+    {
+        "name": "ထမင်းဆီဆမ်း နှင့်ကြက်ကြော်",
+        "price": "3150.00",
+        "category": "Rice Menu"
+    },
+    {
+        "name": "ထမင်းဆီဆမ်း နှင့်ဝက်ကြော်",
+        "price": "3150.00",
+        "category": "Rice Menu"
+    },
+    {
+        "name": "အာဗြဲခြောက်ဆီဆမ်း",
+        "price": "5250.00",
+        "category": "Rice Menu"
+    },
+    {
+        "name": "ဆတ်သားခြောက်ဖုတ်ဆီဆမ်း",
+        "price": "5250.00",
+        "category": "Rice Menu"
+    },
+    {
+        "name": "ထမင်းဖြူ",
+        "price": "525.00",
+        "category": "Rice Menu"
+    },
+    {
+        "name": "ကြက်ဖက်ကဖောင်းထမင်း",
+        "price": "3150.00",
+        "category": "Rice Menu"
+    },
+    {
+        "name": "ကြက်ကုန်းဘောင်ထမင်း",
+        "price": "3150.00",
+        "category": "Rice Menu"
+    },
+    {
+        "name": "Brown Sugar Milk",
+        "price": "1575.00",
+        "category": "Frappe"
+    },
+    {
+        "name": "Chocolate Frappe",
+        "price": "1575.00",
+        "category": "Frappe"
+    },
+    {
+        "name": "Caramel Frappe",
+        "price": "1575.00",
+        "category": "Frappe"
+    },
+    {
+        "name": "Strawberry Frappe",
+        "price": "1575.00",
+        "category": "Frappe"
+    },
+    {
+        "name": "Mocha Frappe",
+        "price": "1575.00",
+        "category": "Frappe"
+    },
+    {
+        "name": "Oreo Frappe",
+        "price": "1575.00",
+        "category": "Frappe"
+    },
+    {
+        "name": "Butterfly pea Flower Milk",
+        "price": "1575.00",
+        "category": "Frappe"
+    },
+    {
+        "name": "Matcha Milk Lava",
+        "price": "2625.00",
+        "category": "Frappe"
+    },
+    {
+        "name": "Taro Milk Lava",
+        "price": "2625.00",
+        "category": "Frappe"
+    },
+    {
+        "name": "Milo Milk Lava",
+        "price": "2625.00",
+        "category": "Frappe"
+    },
+    {
+        "name": "Chocolate Milk Lava",
+        "price": "2625.00",
+        "category": "Frappe"
+    },
+    {
+        "name": "Chocolate Smoothie",
+        "price": "2625.00",
+        "category": "Smoothie series"
+    },
+    {
+        "name": "Strawberry Smoothie",
+        "price": "2625.00",
+        "category": "Smoothie series"
+    },
+    {
+        "name": "Milo Milk Smoothie",
+        "price": "2625.00",
+        "category": "Smoothie series"
+    },
+    {
+        "name": "Choco Oreo Smoothie",
+        "price": "2625.00",
+        "category": "Smoothie series"
+    },
+    {
+        "name": "Respberry Smoothie",
+        "price": "2625.00",
+        "category": "Smoothie series"
+    },
+    {
+        "name": "Blueberry Smoothie",
+        "price": "2625.00",
+        "category": "Smoothie series"
+    },
+    {
+        "name": "Mango Smoothie",
+        "price": "2625.00",
+        "category": "Smoothie series"
+    },
+    {
+        "name": "Kiwi Smoothie",
+        "price": "2625.00",
+        "category": "Smoothie series"
+    },
+    {
+        "name": "Melon Smoothie",
+        "price": "2625.00",
+        "category": "Smoothie series"
+    },
+    {
+        "name": "Passion Smoothie",
+        "price": "2625.00",
+        "category": "Smoothie series"
+    },
+    {
+        "name": "Green Apple Smoothie",
+        "price": "2625.00",
+        "category": "Smoothie series"
+    },
+    {
+        "name": "Banana Smoothie",
+        "price": "2625.00",
+        "category": "Smoothie series"
+    },
+    {
+        "name": "Vanilla Smoothie",
+        "price": "2625.00",
+        "category": "Smoothie series"
+    },
+    {
+        "name": "Yogurt Smoothie",
+        "price": "2625.00",
+        "category": "Smoothie series"
+    },
+    {
+        "name": "Lychee Smoothie",
+        "price": "2625.00",
+        "category": "Smoothie series"
+    },
+    {
+        "name": "Chocolate Milkshake",
+        "price": "1155.00",
+        "category": "Milk shake series"
+    },
+    {
+        "name": "Strawberry Milkshake",
+        "price": "1155.00",
+        "category": "Milk shake series"
+    },
+    {
+        "name": "Melon Milkshake",
+        "price": "1155.00",
+        "category": "Milk shake series"
+    },
+    {
+        "name": "Taro Milkshake",
+        "price": "1155.00",
+        "category": "Milk shake series"
+    },
+    {
+        "name": "Milkshake",
+        "price": "1155.00",
+        "category": "Milk shake series"
+    },
+    {
+        "name": "Grape Milkshake",
+        "price": "1155.00",
+        "category": "Milk shake series"
+    },
+    {
+        "name": "Taiwanese Milk Tea",
+        "price": "1050.00",
+        "category": "Milk tea series"
+    },
+    {
+        "name": "Chocolate Milk Tea",
+        "price": "1050.00",
+        "category": "Milk tea series"
+    },
+    {
+        "name": "Taro Milk Tea",
+        "price": "1050.00",
+        "category": "Milk tea series"
+    },
+    {
+        "name": "Orea Milk Tea",
+        "price": "1575.00",
+        "category": "Milk tea series"
+    },
+    {
+        "name": "Coffee jelly Milk Tea",
+        "price": "1575.00",
+        "category": "Milk tea series"
+    },
+    {
+        "name": "Thai Milk Tea",
+        "price": "1050.00",
+        "category": "Milk tea series"
+    },
+    {
+        "name": "Pudding Milk Tea",
+        "price": "1575.00",
+        "category": "Milk tea series"
+    },
+    {
+        "name": "Strawberry Soda",
+        "price": "1680.00",
+        "category": "Soda"
+    },
+    {
+        "name": "Blueberry Soda",
+        "price": "1680.00",
+        "category": "Soda"
+    },
+    {
+        "name": "Mango Soda",
+        "price": "1680.00",
+        "category": "Soda"
+    },
+    {
+        "name": "Passion Soda",
+        "price": "1680.00",
+        "category": "Soda"
+    },
+    {
+        "name": "Respberry Soda",
+        "price": "1680.00",
+        "category": "Soda"
+    },
+    {
+        "name": "Honey lemon Soda",
+        "price": "1680.00",
+        "category": "Soda"
+    },
+    {
+        "name": "Pineapple Soda",
+        "price": "1680.00",
+        "category": "Soda"
+    },
+    {
+        "name": "Lychee Soda",
+        "price": "1680.00",
+        "category": "Soda"
+    },
+    {
+        "name": "Kiwi Soda",
+        "price": "1680.00",
+        "category": "Soda"
+    },
+    {
+        "name": "Blue Hawaii Soda",
+        "price": "1680.00",
+        "category": "Soda"
+    },
+    {
+        "name": "Orange Soda",
+        "price": "1680.00",
+        "category": "Soda"
+    },
+    {
+        "name": "Line Soda",
+        "price": "1680.00",
+        "category": "Soda"
+    },
+    {
+        "name": "Grape Soda",
+        "price": "1680.00",
+        "category": "Soda"
+    },
+    {
+        "name": "Brown sugar Lime Soda",
+        "price": "1680.00",
+        "category": "Soda"
+    },
+    {
+        "name": "Strawberry Juice",
+        "price": "1050.00",
+        "category": "Jucie Drink"
+    },
+    {
+        "name": "Pineapple Juice",
+        "price": "1050.00",
+        "category": "Jucie Drink"
+    },
+    {
+        "name": "Orange Juice",
+        "price": "1050.00",
+        "category": "Jucie Drink"
+    },
+    {
+        "name": "Passion Juice",
+        "price": "1260.00",
+        "category": "Jucie Drink"
+    },
+    {
+        "name": "Respberry Juice",
+        "price": "1260.00",
+        "category": "Jucie Drink"
+    },
+    {
+        "name": "Kiwi Juice",
+        "price": "1260.00",
+        "category": "Jucie Drink"
+    },
+    {
+        "name": "Blueberry Juice",
+        "price": "1260.00",
+        "category": "Jucie Drink"
+    },
+    {
+        "name": "Peach Juice",
+        "price": "1260.00",
+        "category": "Jucie Drink"
+    },
+    {
+        "name": "Grape Juice",
+        "price": "1260.00",
+        "category": "Jucie Drink"
+    },
+    {
+        "name": "Mango Juice.",
+        "price": "1260.00",
+        "category": "Jucie Drink"
+    },
+    {
+        "name": "Lychee Juice.",
+        "price": "1260.00",
+        "category": "Jucie Drink"
+    },
+    {
+        "name": "Green Apple Juice",
+        "price": "1260.00",
+        "category": "Jucie Drink"
+    },
+    {
+        "name": "Watermelon Juice",
+        "price": "1260.00",
+        "category": "Jucie Drink"
+    },
+    {
+        "name": "Blue Huawai Juice",
+        "price": "1260.00",
+        "category": "Jucie Drink"
+    },
+    {
+        "name": "Lemon Juice",
+        "price": "1260.00",
+        "category": "Jucie Drink"
+    },
+    {
+        "name": "Collagen Juice (carrot + sunkist + apple + tomato)",
+        "price": "2625.00",
+        "category": "Jucie Drink"
+    },
+    {
+        "name": "ဖါလူဒါ",
+        "price": "2625.00",
+        "category": "Drinks"
+    },
+    {
+        "name": "ဒိုမီနို",
+        "price": "2625.00",
+        "category": "Drinks"
+    },
+    {
+        "name": "သီးစုံဖါလူဒါ",
+        "price": "3150.00",
+        "category": "Drinks"
+    },
+    {
+        "name": "သီးစုံနို့စတော်ဘယ်ရီ",
+        "price": "2310.00",
+        "category": "Drinks"
+    },
+    {
+        "name": "သီးစုံနို့အေး",
+        "price": "2310.00",
+        "category": "Drinks"
+    },
+    {
+        "name": "သီးစုံသံပုရာ",
+        "price": "1785.00",
+        "category": "Drinks"
+    },
+    {
+        "name": "သီးစုံနို့သစ်ခွ",
+        "price": "2310.00",
+        "category": "Drinks"
+    },
+    {
+        "name": "ဒိန်ချဉ်နှင့်သကြား",
+        "price": "1785.00",
+        "category": "Drinks"
+    },
+    {
+        "name": "ဒိန်ချဉ်နှင့်ပျားရည်",
+        "price": "1785.00",
+        "category": "Drinks"
+    },
+    {
+        "name": "ဒိန်ချဉ်နှင့်ထန်းလျက်",
+        "price": "1785.00",
+        "category": "Drinks"
+    },
+    {
+        "name": "ချောကလက်ဒိန်ချဉ်",
+        "price": "2100.00",
+        "category": "Drinks"
+    },
+    {
+        "name": "ငှက်ပျောဒိန်ချဉ်",
+        "price": "2100.00",
+        "category": "Drinks"
+    },
+    {
+        "name": "သီးစုံဒိန်ချဉ်",
+        "price": "2310.00",
+        "category": "Drinks"
+    },
+    {
+        "name": "ပိန်းဥဒိန်ချဉ်",
+        "price": "2100.00",
+        "category": "Drinks"
+    },
+    {
+        "name": "ပိန်းဥကောက်ညှင်းဒိန်ချဉ်",
+        "price": "2100.00",
+        "category": "Drinks"
+    },
+    {
+        "name": "ကောက်ညှင်းဒိန်ချဉ်",
+        "price": "2100.00",
+        "category": "Drinks"
+    },
+    {
+        "name": "သခွါးမွှေးသီး ဖျော်ရည်",
+        "price": "1575.00",
+        "category": "Drinks"
+    },
+    {
+        "name": "စတော်ဘယ်ရီနှင့်ငှက်ပျောဖျော်ရည်",
+        "price": "2310.00",
+        "category": "Drinks"
+    },
+    {
+        "name": "သင်္ဘောသီးဖျော်ရည်",
+        "price": "1575.00",
+        "category": "Drinks"
+    },
+    {
+        "name": "ပန်းသီး ဖျော်ရည်",
+        "price": "1575.00",
+        "category": "Drinks"
+    },
+    {
+        "name": "နာနတ်သီး ဖျော်ရည်",
+        "price": "1575.00",
+        "category": "Drinks"
+    },
+    {
+        "name": "သင်္ဘောသီးနှင့်သံပုရာ ဖျော်ရည်",
+        "price": "1575.00",
+        "category": "Drinks"
+    },
+    {
+        "name": "ငှက်ပျောသီးဖျော်ရည်",
+        "price": "1575.00",
+        "category": "Drinks"
+    },
+    {
+        "name": "ဖရဲသီး ဖျော်ရည်",
+        "price": "1575.00",
+        "category": "Drinks"
+    },
+    {
+        "name": "ဆားငံသီးဖျော်ရည်",
+        "price": "1785.00",
+        "category": "Drinks"
+    },
+    {
+        "name": "ပင်မှည့်သီးဖျော်ရည်",
+        "price": "1785.00",
+        "category": "Drinks"
+    },
+    {
+        "name": "မုန်လာဥနီဖျော်ရည်",
+        "price": "1890.00",
+        "category": "Drinks"
+    },
+    {
+        "name": "ချဉ်ဆော်ခါးသီး ဖျော်ရည်",
+        "price": "1785.00",
+        "category": "Drinks"
+    },
+    {
+        "name": "ပျားသံပုရာသီး ဖျော်ရည်",
+        "price": "1575.00",
+        "category": "Drinks"
+    },
+    {
+        "name": "သံပုရာသီး ဖျော်ရည်",
+        "price": "1260.00",
+        "category": "Drinks"
+    },
+    {
+        "name": "IceCoffee",
+        "price": "1365.00",
+        "category": "Drinks"
+    },
+    {
+        "name": "ပျားနာနတ်သီးဖျော်ရည်",
+        "price": "1365.00",
+        "category": "Drinks"
+    },
+    {
+        "name": "Ice Tea",
+        "price": "1365.00",
+        "category": "Drinks"
+    },
+    {
+        "name": "Ice Black Coffee",
+        "price": "1365.00",
+        "category": "Drinks"
+    },
+    {
+        "name": "Thai Tea",
+        "price": "1365.00",
+        "category": "Drinks"
+    },
+    {
+        "name": "Ice Lemon Tea",
+        "price": "1365.00",
+        "category": "Drinks"
+    },
+    {
+        "name": "J Cup Milkshake",
+        "price": "735.00",
+        "category": "Drinks"
+    },
+    {
+        "name": "Green Tea",
+        "price": "1365.00",
+        "category": "Drinks"
+    },
+    {
+        "name": "ယိုးဒယားရွှေရင်အေးဖျော်ရည်",
+        "price": "1995.00",
+        "category": "Drinks"
+    }
+]
