@@ -7,6 +7,7 @@ Turbo.start()
 // Turbo.setProgressBarDelay(0)
 
 window.Alpine = Alpine
+window.Turbo = Turbo
 
 Alpine.plugin(focus)
 Alpine.start()

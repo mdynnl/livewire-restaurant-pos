@@ -13,6 +13,12 @@
         <title>{{ config('app.name') }}</title>
     @endif
 
+    <!-- disable turbo cache -->
+    <meta
+        content="no-cache"
+        name="turbo-cache-control"
+    >
+
     <!-- Favicon -->
     <link
         href="{{ url(asset('favicon.ico')) }}"
