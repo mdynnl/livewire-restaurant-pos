@@ -17,7 +17,7 @@ return new class extends Migration
             $table->id();
             $table->string('name');
             $table->decimal('price');
-            $table->foreignId('category_id')->references('id')->on('categories')->nullOnDelete();
+            $table->foreignId('category_id')->nullable()->references('id')->on('categories')->nullOnDelete();
             $table->timestamps();
         });
     }

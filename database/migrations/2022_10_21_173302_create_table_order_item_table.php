@@ -16,7 +16,7 @@ return new class extends Migration
         Schema::create('table_order_item', function (Blueprint $table) {
             $table->id();
             $table->foreignId('table_order_id')->references('id')->on('table_order')->cascadeOnDelete();
-            $table->foreignId('item_id')->references('id')->on('items')->nullOnDelete();
+            $table->foreignId('item_id')->nullable()->references('id')->on('items')->nullOnDelete();
             $table->integer('qty')->default(0);
             $table->timestamps();
         });
